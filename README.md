@@ -6,8 +6,8 @@
 ### 👤 Professional Profile
 A **Business Information Systems (BIS)** graduate with a focus on engineering secure, scalable, and high-performance web applications. I bridge the gap between business requirements and technical excellence through clean code and robust architecture.
 
-*   🛡️ **Security:** Specialist in **ASP.NET Core Identity** & **JWT** Authentication.
-*   🏗️ **Architecture:** Focused on implementing **SOLID Principles**, **Repository Pattern**, and **Clean Architecture**.
+*   🛡️ **Security:** Strong understanding in **ASP.NET Core Identity** & **JWT** Authentication.
+*   🏗️ **Architecture:** Focused on **Clean Code** practices, **Modular Design**, and **Redux** State Management.
 *   💻 **Frontend:** Crafting dynamic user experiences with **React.js** and **Redux Toolkit**.
 
 ---
