@@ -3,16 +3,15 @@
 
 ---
 
-### 👤 Professional Profile
 A **Business Information Systems (BIS)** graduate with a focus on engineering secure, scalable, and high-performance web applications. I bridge the gap between business requirements and technical excellence through clean code and robust architecture.
 
-*   🛡️ **Security:** Strong understanding in **ASP.NET Core Identity** & **JWT** Authentication.
-*   🏗️ **Architecture:** Focused on **Clean Code** practices, **Modular Design**, and **Redux** State Management.
-*   💻 **Frontend:** Crafting dynamic user experiences with **React.js** and **Redux Toolkit**.
+*    **Security:** Strong understanding in **ASP.NET Core Identity** & **JWT** Authentication.
+*    **Architecture:** Focused on **Clean Code** practices, **Modular Design**, and **Redux** State Management.
+*    **Frontend:** Crafting dynamic user experiences with **React.js** and **Redux Toolkit**.
 
 ---
 
-### 🛠 Technical Ecosystem
+###  Technical Ecosystem
 
 | Category | Technologies |
 | :--- | :--- |
@@ -23,7 +22,7 @@ A **Business Information Systems (BIS)** graduate with a focus on engineering se
 
 ---
 
-### 📫 How to reach me
+###  How to reach me
 
 <a href="mailto:toqaaashraf87@gmail.com">
   <img src="https://img.shields.io/badge/Email-toqaaashraf87%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
