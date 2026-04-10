@@ -28,6 +28,7 @@ A **Business Information Systems (BIS)** graduate with a focus on engineering se
   <img src="https://img.shields.io/badge/Email-toqaaashraf87%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <br>
+<br>
 <a href="http://www.linkedin.com/in/toqa-ashraf-155218401">
   <img src="https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
