@@ -7,7 +7,7 @@ A **Business Information Systems (BIS)** graduate with a focus on engineering se
 
 *    **Security:** Proficient in implementing **ASP.NET Core Identity** & **JWT** Authentication for secure API access.
 *    **Architecture:** Focused on **Clean Code** practices, **SOLID** patterns, and building **Scalable APIs**.
-*    **Frontend: **Developing responsive UIs with **React.js** and managing complex states using **Redux Toolkit**.
+*    **Frontend:** Developing responsive UIs with **React.js** and managing complex states using **Redux Toolkit**.
 
 ---
 
