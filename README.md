@@ -5,13 +5,13 @@
 
 A **Business Information Systems (BIS)** graduate with a focus on engineering secure, scalable, and high-performance web applications. I bridge the gap between business requirements and technical excellence through clean code and robust architecture.
 
-*    **Security:** Strong understanding in **ASP.NET Core Identity** & **JWT** Authentication.
-*    **Architecture:** Focused on **Clean Code** practices, **Modular Design**, and **Redux** State Management.
-*    **Frontend:** Crafting dynamic user experiences with **React.js** and **Redux Toolkit**.
+*    **Security:** Proficient in implementing **ASP.NET Core Identity** & **JWT** Authentication for secure API access.
+*    **Architecture:** Focused on **Clean Code** practices, **SOLID** patterns, and building **Scalable APIs**.
+*    **Frontend: **Developing responsive UIs with **React.js** and managing complex states using **Redux Toolkit**.
 
 ---
 
-###  Technical Ecosystem
+###  Technical Skills
 
 | Category | Technologies |
 | :--- | :--- |
