@@ -6,7 +6,7 @@
 A **Business Information Systems (BIS)** graduate with a focus on engineering secure, scalable, and high-performance web applications. I bridge the gap between business requirements and technical excellence through clean code and robust architecture.
 
 *    **Security:** Proficient in implementing **ASP.NET Core Identity** & **JWT** Authentication for secure API access.
-*    **Architecture:** Focused on **Clean Code** practices, **SOLID** patterns, and building **Scalable APIs**.
+*    **Architecture:** Focused on **Clean Code** practices and building **Scalable APIs**.
 *    **Frontend:** Developing responsive UIs with **React.js** and managing complex states using **Redux Toolkit**.
 
 ---
