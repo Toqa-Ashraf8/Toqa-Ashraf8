@@ -33,5 +33,3 @@ A **Business Information Systems (BIS)** graduate with a focus on engineering se
   <img src="https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
----
-<p align="center">Clean Code | Secure Systems | Business Value</p>
