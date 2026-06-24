@@ -1,5 +1,5 @@
 # Toqa Ashraf
-### Full-Stack Developer | .NET Core & React.js Specialist
+### Software Enginner | .NET Core & React.js Specialist
 
 ---
 
