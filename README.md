@@ -1,9 +1,7 @@
 <div align="center">
 
-# Hi, I'm Toqa Ashraf 
+# Hi, I'm Toqa Ashraf 👋
 ### Software Engineer | .NET Core & React.js
-
-*Business Information Systems Graduate · GPA 3.76*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/toqa-ashraf-155218401)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:toqaaashraf87@gmail.com)
@@ -52,14 +50,22 @@ Full-stack developer specializing in **.NET Core** backend and **React.js** fron
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 
-
 ---
 
-## GitHub Stats
+##  GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Toqa-Ashraf8&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toqa-Ashraf8&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Toqa-Ashraf8&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs&rank_icon=github"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toqa-Ashraf8&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+
+</div>
+
+<div align="center">
+
+![Streak](https://streak-stats.demolab.com?user=Toqa-Ashraf8&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
 </div>
 
 ---
