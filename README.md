@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Toqa Ashraf 👋
+# Toqa Ashraf 
 ### Software Engineer | .NET Core & React.js
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/toqa-ashraf-155218401)
@@ -22,7 +22,7 @@ Full-stack developer specializing in **.NET Core** backend and **React.js** fron
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Backend**
 
