@@ -25,7 +25,7 @@ A **Business Information Systems (BIS)** graduate with a focus on engineering se
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Toqa-Ashraf8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Toqa-Ashraf8&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toqa-Ashraf8&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 </p>
 
