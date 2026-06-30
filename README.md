@@ -13,7 +13,7 @@
 
 ##  About Me
 
-Full-stack developer specializing in **.NET Core** backend and **React.js** frontend, with a strong focus on **Clean Architecture** and secure, scalable APIs. I bridge the gap between business requirements and technical excellence through clean code and robust system design.
+Full-stack Software Engineer specializing in **.NET Core** backend and **React.js** frontend, with a strong focus on **Clean Architecture** and secure, scalable APIs. I bridge the gap between business requirements and technical excellence through clean code and robust system design.
 
 -  **Security:** JWT Authentication & secure API design
 -  **Architecture:** Clean Architecture · SOLID principles · Design Patterns
